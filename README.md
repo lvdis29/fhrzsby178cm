@@ -1,4 +1,4 @@
-🎀 fahreza.os
+🎀 fahreza.os  
 A tiny little web project I made as a birthday surprise for Fahreza.
 Not a real operating system of course — just a playful website pretending to be one.
 The idea was simple:
