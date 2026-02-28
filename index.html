@@ -118,11 +118,11 @@
             flex-direction: column; 
             align-items: center;
             background-color: #ffffff;
-            /* Pola titik yang sekarang beranimasi */
+            /* Pola titik */
             background-image: radial-gradient(#ffdae9 0.8px, transparent 0.8px);
             background-size: 24px 24px;
             animation: backgroundMove 60s linear infinite;
-            position: relative; /* Penting untuk tumpukan animasi imut */
+            position: relative; 
         }
 
         @keyframes backgroundMove {
@@ -145,13 +145,13 @@
             position: absolute;
             top: 0; left: 0; width: 100%; height: 100%;
             pointer-events: none;
-            z-index: 2; /* Di atas background move, di bawah konten */
+            z-index: 2; 
             overflow: hidden;
         }
 
         .decor-item {
             position: absolute;
-            opacity: 0.3; /* Halus aja */
+            opacity: 0.3; 
             animation: fall linear infinite;
         }
 
@@ -612,3 +612,4 @@
 </body>
 
 </html>
+
