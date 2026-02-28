@@ -1,9 +1,9 @@
 🎀 fahreza.os  
-A tiny little web project I made as a birthday surprise for Fahreza.
-Not a real operating system of course — just a playful website pretending to be one.
-The idea was simple:
-instead of sending a normal birthday message, I wanted to build something interactive, weird, and a little bit funny.
-So yeah… welcome to fahreza.os.
+A tiny little web project I made as a birthday surprise for Fahreza.  
+Not a real operating system of course — just a playful website pretending to be one.  
+The idea was simple:  
+instead of sending a normal birthday message, I wanted to build something interactive, weird, and a little bit funny.  
+So yeah… welcome to fahreza.os.  
 
 📱What This Is
 This is basically a fake operating system styled birthday page.
